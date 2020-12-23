@@ -1,2 +1,1 @@
-console.console.log("test"
-);
+console.log("wow")
